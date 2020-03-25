@@ -1,6 +1,6 @@
 # COVID-19 DETECTION
 
-**COVID-19 Detection using RestNet.**
+**COVID-19 Detection using ResNet.**
 
 **DATASET**
 
