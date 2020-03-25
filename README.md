@@ -1,4 +1,4 @@
-# COVID-19
+# COVID-19 DETECTION
 
 **COVID-19 Detection using RestNet.**
 
