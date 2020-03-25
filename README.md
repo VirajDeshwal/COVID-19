@@ -11,6 +11,6 @@ The consolidated dataset contain appx. 1300 X-Ray images.
 '''
 **REFRENCES**
 
-@ [https://github.com/ieee8023/covid-chestxray-dataset]
-@[https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia]
+./[https://github.com/ieee8023/covid-chestxray-dataset]
+../[https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia]
 '''
