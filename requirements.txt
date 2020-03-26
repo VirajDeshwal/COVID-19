@@ -7,4 +7,4 @@ matplotlib
 numpy
 gunicorn
 seaborn
-PIL
+Pillow
