@@ -3,7 +3,7 @@
 **COVID-19 Detection using ResNet.**
 
 
-<img src = "images/covid.png" width="500">
+<img src = "images/covid-3.png" width="500">
 
 **DATASET**
 
