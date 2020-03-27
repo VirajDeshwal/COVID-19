@@ -1,0 +1,10 @@
+Flask
+fastai
+torch
+flask_cors
+pandas
+matplotlib
+numpy
+gunicorn
+seaborn
+Pillow
