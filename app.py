@@ -7,7 +7,7 @@ app = Flask(__name__)
 CORS(app, support_credentials=True)
 
 # learner file
-learn = load_learner(path="./models", file="resnet34-COVID-19.pkl")
+learn = load_learner(path="./models", file="COVID-512-final.pkl")
 classes = learn.data.classes
 
 
@@ -17,7 +17,7 @@ def image_predict(img_file):
     result = prediction[2].numpy()
     return {
         "category": classes[prediction[1].item()],
-        "result": {c: round(float(probs_list[i]), 2) for (i, c) in enumerate(classes)},
+        "result": {c: round(float(probs_list[i]), 3) for (i, c) in enumerate(classes)},
     }
 
 # route
