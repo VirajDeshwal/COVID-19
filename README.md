@@ -16,7 +16,9 @@ The consolidated dataset contain appx. 1300 X-Ray images.
 - 1. Training Notebook - Data Exploration and Training is done in this notebook.
 - 2. Inference Notebook - Inference is done in this notebook.
 
-
+**FLASK APP**
+-  Simple FLASK App is added to test the model by uploading the image in a webpage.
+- Simple GUI added with html page which returns the label and confidence score.
 **REFRENCES**
 
 - [ieee covid dataset](https://github.com/ieee8023/covid-chestxray-dataset)
