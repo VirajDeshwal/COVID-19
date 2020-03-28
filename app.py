@@ -7,7 +7,7 @@ app = Flask(__name__)
 CORS(app, support_credentials=True)
 
 # learner file
-learn = load_learner(path="./models", file="COVID-512-final.pkl")
+learn = load_learner(path="./models", file="covid-512-final.pkl")
 classes = learn.data.classes
 
 
