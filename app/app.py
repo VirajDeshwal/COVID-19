@@ -1,5 +1,5 @@
 from flask import Flask, request, render_template
-from fastai.vision import *
+from fastai.vision import load_learner, open_image
 # from inference import get_pred
 
 #init class
